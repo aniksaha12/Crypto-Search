@@ -1,0 +1,15 @@
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    font-size: 2rem;
+    color: #e2cf1e;
+}
+
+.orange {
+    color: #e2cf1e;
+}
